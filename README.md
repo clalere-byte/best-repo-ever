@@ -4,3 +4,7 @@
 
 this is my sample file for my Trailhead module.
 
+
+
+Conflict test
+
